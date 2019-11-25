@@ -4,7 +4,7 @@ import io.turntabl.grades.Grade
 
 class TLCStudent(val fName: String, val lName: String, val id: Int = 1029 , val role: String = "Student",val year: Int = 2018, val gitUrl: String = "https://github/turntabl") {
 
-  def studentTerm()=
+  def studentTerm() =
     2019 - 2018
 
   def topGrade(subject: String, grade: Int) =
