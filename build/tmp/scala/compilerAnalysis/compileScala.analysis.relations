@@ -1,28 +1,62 @@
 products:
+   src/main/scala/io/turntabl/functional/Functional.scala -> build/classes/scala/main/io/turntabl/functional/Functional$$anonfun$1.class
+   src/main/scala/io/turntabl/functional/Functional.scala -> build/classes/scala/main/io/turntabl/functional/Functional$$anonfun$2$$anonfun$apply$2.class
+   src/main/scala/io/turntabl/functional/Functional.scala -> build/classes/scala/main/io/turntabl/functional/Functional$$anonfun$2.class
+   src/main/scala/io/turntabl/functional/Functional.scala -> build/classes/scala/main/io/turntabl/functional/Functional$$anonfun$3.class
+   src/main/scala/io/turntabl/functional/Functional.scala -> build/classes/scala/main/io/turntabl/functional/Functional$$anonfun$4$$anonfun$apply$1.class
+   src/main/scala/io/turntabl/functional/Functional.scala -> build/classes/scala/main/io/turntabl/functional/Functional$$anonfun$4.class
+   src/main/scala/io/turntabl/functional/Functional.scala -> build/classes/scala/main/io/turntabl/functional/Functional.class
    src/main/scala/io/turntabl/grades/Grade.scala -> build/classes/scala/main/io/turntabl/grades/Grade$.class
    src/main/scala/io/turntabl/grades/Grade.scala -> build/classes/scala/main/io/turntabl/grades/Grade.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$$anonfun$1.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$$anonfun$2.class
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$.class
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$delayedInit$body.class
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp.class
    src/main/scala/io/turntabl/students/TLCStudent.scala -> build/classes/scala/main/io/turntabl/students/TLCStudent$.class
    src/main/scala/io/turntabl/students/TLCStudent.scala -> build/classes/scala/main/io/turntabl/students/TLCStudent.class
+   src/main/scala/io/turntabl/students/TurntablEmployee.scala -> build/classes/scala/main/io/turntabl/students/TurntablEmployee.class
+   src/main/scala/io/turntabl/students/TurntablManager.scala -> build/classes/scala/main/io/turntabl/students/TurntablManager.class
 binary dependencies:
-   src/main/scala/io/turntabl/grades/Grade.scala -> /home/sammy/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
-   src/main/scala/io/turntabl/grades/Grade.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
-   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /home/sammy/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
-   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
-   src/main/scala/io/turntabl/students/TLCStudent.scala -> /home/sammy/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
-   src/main/scala/io/turntabl/students/TLCStudent.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+   src/main/scala/io/turntabl/functional/Functional.scala -> /home/samuel-kwakye/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   src/main/scala/io/turntabl/functional/Functional.scala -> /snap/intellij-idea-community/191/jbr
+   src/main/scala/io/turntabl/grades/Grade.scala -> /home/samuel-kwakye/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   src/main/scala/io/turntabl/grades/Grade.scala -> /snap/intellij-idea-community/191/jbr
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /home/samuel-kwakye/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/functional/Functional.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/students/TurntablEmployee.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/students/TurntablManager.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /snap/intellij-idea-community/191/jbr
+   src/main/scala/io/turntabl/students/TLCStudent.scala -> /home/samuel-kwakye/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   src/main/scala/io/turntabl/students/TLCStudent.scala -> /snap/intellij-idea-community/191/jbr
+   src/main/scala/io/turntabl/students/TurntablEmployee.scala -> /home/samuel-kwakye/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   src/main/scala/io/turntabl/students/TurntablEmployee.scala -> /snap/intellij-idea-community/191/jbr
+   src/main/scala/io/turntabl/students/TurntablManager.scala -> /home/samuel-kwakye/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
 source dependencies:
-   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> src/main/scala/io/turntabl/grades/Grade.scala
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> src/main/scala/io/turntabl/functional/Functional.scala
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> src/main/scala/io/turntabl/students/TLCStudent.scala
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> src/main/scala/io/turntabl/students/TurntablEmployee.scala
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> src/main/scala/io/turntabl/students/TurntablManager.scala
    src/main/scala/io/turntabl/students/TLCStudent.scala -> src/main/scala/io/turntabl/grades/Grade.scala
+   src/main/scala/io/turntabl/students/TLCStudent.scala -> src/main/scala/io/turntabl/students/TurntablEmployee.scala
+   src/main/scala/io/turntabl/students/TurntablManager.scala -> src/main/scala/io/turntabl/students/TurntablEmployee.scala
 external dependencies:
 class names:
+   src/main/scala/io/turntabl/functional/Functional.scala -> io.turntabl.functional.Functional
+   src/main/scala/io/turntabl/functional/Functional.scala -> io.turntabl.functional.Functional$$anonfun$1
+   src/main/scala/io/turntabl/functional/Functional.scala -> io.turntabl.functional.Functional$$anonfun$2
+   src/main/scala/io/turntabl/functional/Functional.scala -> io.turntabl.functional.Functional$$anonfun$2$$anonfun$apply$2
+   src/main/scala/io/turntabl/functional/Functional.scala -> io.turntabl.functional.Functional$$anonfun$3
+   src/main/scala/io/turntabl/functional/Functional.scala -> io.turntabl.functional.Functional$$anonfun$4
+   src/main/scala/io/turntabl/functional/Functional.scala -> io.turntabl.functional.Functional$$anonfun$4$$anonfun$apply$1
    src/main/scala/io/turntabl/grades/Grade.scala -> io.turntabl.grades.Grade
    src/main/scala/io/turntabl/grades/Grade.scala -> io.turntabl.grades.Grade$
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$$anonfun$1
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$$anonfun$2
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$delayedInit$body
    src/main/scala/io/turntabl/students/TLCStudent.scala -> io.turntabl.students.TLCStudent
    src/main/scala/io/turntabl/students/TLCStudent.scala -> io.turntabl.students.TLCStudent$
+   src/main/scala/io/turntabl/students/TurntablEmployee.scala -> io.turntabl.students.TurntablEmployee
+   src/main/scala/io/turntabl/students/TurntablManager.scala -> io.turntabl.students.TurntablManager
